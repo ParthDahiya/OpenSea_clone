@@ -13,10 +13,7 @@ const Listings = () => {
 
     useEffect(()=>{
         getListings();
-<<<<<<< HEAD
         // eslint-disable-next-line react-hooks/exhaustive-deps
-=======
->>>>>>> 230b08dd2d5449f772275d29a81e9ae0f7158ef3
     },[])
     
     const getListings = async() =>{

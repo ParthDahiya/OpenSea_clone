@@ -35,11 +35,7 @@ const DropDown = ({title, icon, listing}) => {
                              (listing?.asset?.description) :
                               (listing?.asset?.attributes.map((item, index) => {
                                 return (
-<<<<<<< HEAD
                                     <table key={index}>
-=======
-                                    <table>
->>>>>>> 230b08dd2d5449f772275d29a81e9ae0f7158ef3
                                         <tr>
                                             <td>{item.trait_type}</td>
                                             <td>{item.value}</td>
