@@ -1,10 +1,10 @@
-import banner from '../assets/banner.png'
-import logo from '../assets/logo.png'
+import banner from '../assets/banner.jpg'
+import logo from '../assets/logo.gif'
 
 export const collectionData = {
-  name: 'CryptoPunks',
+  name: 'DASK - Dead Army Skeleton Klub',
   description:
-    'CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.',
+    "The DASK is a community-driven collectibles project starting with a collection of 6969 Klub Members that give you membership access to The Klub: · Each DASK is a metaverse-ready 3d character. · DASK holders own 100% of the copyright of the NFTS. · Klub's members receive access to exclusive drops, merch, experiences, and more.",
   isVerified: true,
   banner_image_url: banner,
   image_url: logo,

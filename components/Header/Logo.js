@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
 const style = {
-  wrapper: `flex cursor-pointer items-center space-x-3`,
-  svgText: `h-14 w-24 fill-[#04111D] pt-1 dark:fill-white`,
+  wrapper: 'flex cursor-pointer items-center space-x-3',
+  svgText: 'h-14 w-24 fill-[#04111D] pt-1 dark:fill-[#adddda} hover:fill-[#adddda]',
 }
 
 const Logo = () => {
